@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vdanyliu/Desktop/core_war/asm/op.c
+op.h
+/Users/vdanyliu/Desktop/core_war/asm/op.h
+
+/Users/vdanyliu/Desktop/core_war/asm/op.h
+
